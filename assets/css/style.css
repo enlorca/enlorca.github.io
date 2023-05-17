@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* {
+        height: 727px;
+        width: 100%;
+        background-color: #000000;
+} */
+
+.hero__bg-img {
+  width: 100%;
+  height: 50vh;
+  background-image: url("../img/hero-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* .section__img {
+    display: flex;
+    justify-content: center;
+    height: 727px;
+    width: 100%;
+}
+ */
+.navbar__bg {
+  background-color: #28a745;
+}
+
+
+.title-section {
+  color: black;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.form-placeholder__font {
+  font-weight: 300;
+}
+
+.footer__text {
+  color: #707070;
+  font-weight: 300;
+}
+
+.btn-primary {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.footer__img {
+  width: 82px;
+  height: 24px;
+}
+
+.card-title {
+  font-weight: 300;
+  font-size: 20px;
+  color: #212529;
+}
+
+.card {
+  border: 1px solid #cd1719;
+}
+
+.card-text {
+  font-weight: 300;
+  font-size: 16px;
+  color: #707070;
+}
+
+.card-text2 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #28a745;
+}
+
+.card-text3 {
+  font-weight: 300;
+  font-size: 13px;
+  color: #707070;
+}
