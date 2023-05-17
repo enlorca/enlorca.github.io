@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 /* {
@@ -37,7 +37,6 @@ body {
 .navbar__bg {
   background-color: #28a745;
 }
-
 
 .title-section {
   color: black;
@@ -72,6 +71,15 @@ body {
 
 .card {
   border: 1px solid #cd1719;
+}
+
+.btn-primary {
+  border: 1px solid #cd1719;
+}
+
+.btn-primary:hover {
+  background-color: #cd1719;
+  border: 1px solid #212529;
 }
 
 .card-text {
